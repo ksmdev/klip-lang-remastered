@@ -1,0 +1,2 @@
+KLIP[*]: this will be logged to log.txt
+KLIP[*]: im loving klip lang
