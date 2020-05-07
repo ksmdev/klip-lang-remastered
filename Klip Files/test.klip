@@ -1,0 +1,19 @@
+String text1 = "this is string number 1"
+String text2 = "this is string number 2"
+String string1 = "this may not work"
+text1 = "this is the updated string 1"
+string1 = "hello world"
+
+Int number1 = 1
+
+number1 = 20
+Int number2 = 2
+Int number3 = 3
+Int number4 = 4
+Int number5 = 5
+Int number6 = 6
+
+print(number1)
+print(string1)
+print(text2)
+log("this is a log")
