@@ -1,4 +1,0 @@
-String text1 = "this is string number 1"
-String text2 = "this is string number 2"
-String string1 = "this may not work"
-text1 = "this is the updated string 1"
